@@ -17,13 +17,13 @@ View the [deployed project](https://qcent.github.io/pantry-remover/)
 
 
 ## User Story
-As a hungry person I want to find something to eat
+AS A hungry person I WANT to find something to eat
 
-As a person with some ingredients in the cupboard/fridge I want to search for what can be made with them and see a list of recipes
+AS A person with some ingredients in the cupboard/fridge I WANT to search for what can be made with them and see a list of recipes
 
-If I still need ingredients to complete a meal I want to easily be able to make a shopping list
+AS A person who may still need ingredients to complete a meal I WANT to easily be able to make a shopping list of those ingredients
 
-As a person who goes shopping I want an interactive list i can use to help me keep track of what i need to buy
+AS A person who goes shopping I WANT an interactive list I can use to help me keep track of what I need to buy
 
 
 ## Technologies 
