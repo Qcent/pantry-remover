@@ -6,14 +6,14 @@ Created by Team Ahsoka ( Dave Quinn, Makda Girmay, Lamek Ghebremicael and Rob Gi
 
 View the [deployed project](https://qcent.github.io/pantry-remover/)
 
-![Desktop](assets/images/pantry-remover.png)
+![Desktop](assets/images/app-screenshot2.png)
 ![Mobile](assets/images/app-screenshot.png)
 
 
 ## Purpose
- To help people use the ingredients currently in their household.
- To help people find and save tasty things they can make for themselves.
- To help people get the ingredients they will require to do all of the above.
+ To help people use the ingredients currently in their household. \ 
+ To help people find and save tasty things they can make for themselves. \ 
+ To help people get the ingredients they will require to do all of the above. \ 
 
 
 ## User Story
