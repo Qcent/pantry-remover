@@ -1041,9 +1041,10 @@ document.addEventListener('click', (e) => {
     if (e.target.id === "searchBtn") {
 
         $(e.target).siblings('input').attr('placeholder').match(/ingredient/g) ?
-            //search by ingredient search button was pressed
+            //search by ingredient or recipe search button was pressed
             searchByIngredient() :
             searchByRecipe();
+        $('#ingredientSearch').val('');
 
     } else if (e.target.id === "randoBtn") {
         //hide the searchbar
