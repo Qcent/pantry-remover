@@ -11,8 +11,8 @@ View the [deployed project](https://qcent.github.io/pantry-remover/)
 
 
 ## Purpose
- To help people use the ingredients currently in their household. / 
- To help people find and save tasty things they can make for themselves. / 
+ To help people use the ingredients currently in their household.\
+ To help people find and save tasty things they can make for themselves.\
  To help people get the ingredients they will require to do all of the above.  
 
 
