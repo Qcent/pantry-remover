@@ -5,6 +5,10 @@
     /*  border: 1px solid black; */
 }
 
+:root {
+    --meal-border-color: rgb(226, 188, 116);
+}
+
 .flex-container {
     display: flex;
 }
@@ -35,6 +39,7 @@ header {
 /* Navigation style  */
 
 #header-logo img {
+    cursor: pointer;
     padding-top: .2rem;
     height: 40px;
 }
@@ -119,12 +124,13 @@ main::-webkit-scrollbar {
 }
 
 .meal-container {
+    cursor: pointer;
     margin-top: 1rem;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 50%;
-    border: .6rem solid #333;
+    border: .6rem solid var(--meal-border-color);
 }
 
 .meal-container h2 {
@@ -137,11 +143,6 @@ main::-webkit-scrollbar {
     border-left: 0;
     border-right: 0;
     padding: .1rem 3rem;
-}
-
-.meal-container img {
-    cursor: pointer;
-    z-index: -2;
 }
 
 .ingredient-list #select-all-btn {
